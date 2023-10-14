@@ -9,6 +9,6 @@
 * BeautifulSoup
 * csv
 ### Página del ejecicio
-* <a href= "https://www.imdb.com/calendar/?region=MX">imdb</a>
+* <a href= "https://www.imdb.com/calendar/?region=MX" target="_blank">imdb</a>
 ### Producto
 * <a href= "./imdb.csv">Archivo CSV</a>
