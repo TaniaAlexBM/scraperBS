@@ -1,3 +1,4 @@
+import json
 import requests
 from bs4 import BeautifulSoup
 import csv
@@ -66,6 +67,30 @@ def create_movie(tag):
     categories = [ category.span.text for category in ul_categories.find_all('li')]
     return(name,categories,cast)
 
+def create_csv_movies_file(movies):
+    with open('imdb.csv','w') as file:
+        writer = csv.writer(file) # delimiter = "|"
+        writer.writerow(['name','categories','cast'])
+        for movie in movies:
+            writer.writerow([
+                movie[0],
+                ",".join(movie[1]),
+                ",".join(movie[2])
+            ])
+
+def create_json_movies_file(movies):
+    # Python representa JSON mediante diccionarios
+    movies_list = [
+        {
+            'name': movie[0],
+            'categories': movie[1],
+            'cast': movie[2]
+        }
+        for movie in movies
+    ]
+    with open('movies.json','w',encoding='utf-8') as file:
+        json.dump(movies_list,file,ensure_ascii= False,indent=4)
+
 def main():
     content = get_local_imdb_content()
     soup = BeautifulSoup(content,'html.parser')
@@ -76,15 +101,9 @@ def main():
     for tag in li_tags:
         movie = create_movie(tag)
         movies.append(movie)
-    with open('imdb.csv','w') as file:
-        writer = csv.writer(file) # delimiter = "|"
-        writer.writerow(['name','categories','cast'])
-        for movie in movies:
-            writer.writerow([
-                movie[0],
-                ",".join(movie[1]),
-                ",".join(movie[2])
-            ])
+    create_csv_movies_file(movies)
+    create_json_movies_file(movies)
+
 
 
 if __name__ == '__main__':
