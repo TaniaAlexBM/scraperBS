@@ -1,0 +1,894 @@
+[
+    {
+        "name": "El Justiciero: Capítulo Final (2023)",
+        "categories": [
+            "Action",
+            "Crime",
+            "Thriller"
+        ],
+        "cast": [
+            "Denzel Washington",
+            "Dakota Fanning",
+            "Eugenio Mastrandrea",
+            "David Denman"
+        ]
+    },
+    {
+        "name": "Max (2023)",
+        "categories": [
+            "Animation",
+            "History"
+        ],
+        "cast": [
+            "Ashley Greene",
+            "Hector Elizondo",
+            "David Henrie",
+            "Weronika Rosati"
+        ]
+    },
+    {
+        "name": "Dioses de México (2022)",
+        "categories": [
+            "Documentary"
+        ],
+        "cast": []
+    },
+    {
+        "name": "Catacumbas: Invasión Final (2021)",
+        "categories": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Xiao-su Ling",
+            "Chao Jiang",
+            "Jianyu Liu",
+            "Zijia Wang"
+        ]
+    },
+    {
+        "name": "Taylor Swift: The Eras Tour (2023)",
+        "categories": [
+            "Music"
+        ],
+        "cast": [
+            "Taylor Swift",
+            "Amanda Balen",
+            "Taylor Banks",
+            "Karen Chuang"
+        ]
+    },
+    {
+        "name": "La Maldición De David (2023)",
+        "categories": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            "Justin Long",
+            "Andrea Bang",
+            "Augustus Prew",
+            "Rachel Wilson"
+        ]
+    },
+    {
+        "name": "Los Asesinos De La Luna (2023)",
+        "categories": [
+            "Crime",
+            "Drama",
+            "History"
+        ],
+        "cast": [
+            "Leonardo DiCaprio",
+            "Robert De Niro",
+            "Lily Gladstone",
+            "Jesse Plemons"
+        ]
+    },
+    {
+        "name": "12 Horas Para El Fin Del Mundo (2022)",
+        "categories": [
+            "Adventure",
+            "Drama",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Anatoliy Belyy",
+            "Veronika Ustimova",
+            "Yevgeniy Yegorov",
+            "Darya Moroz"
+        ]
+    },
+    {
+        "name": "Radical (2023)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Eugenio Derbez",
+            "Daniel Haddad",
+            "Jennifer Trejo",
+            "Mia Fernanda Solis"
+        ]
+    },
+    {
+        "name": "Guerra De Herederos (2022)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Toni Collette",
+            "Anna Faris",
+            "David Duchovny",
+            "Rosemarie DeWitt"
+        ]
+    },
+    {
+        "name": "La Puerta Al Infierno: Guimoon (2021)",
+        "categories": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "cast": [
+            "Kang-woo Kim",
+            "So-hye Kim"
+        ]
+    },
+    {
+        "name": "Five Nights at Freddy's (2023)",
+        "categories": [
+            "Horror"
+        ],
+        "cast": [
+            "Josh Hutcherson",
+            "Mary Stuart Masterson",
+            "Lucas Grant",
+            "David Huston Doty"
+        ]
+    },
+    {
+        "name": "El Poder De Los Centavos (2023)",
+        "categories": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [
+            "Paul Dano",
+            "Pete Davidson",
+            "Vincent D'Onofrio",
+            "America Ferrera"
+        ]
+    },
+    {
+        "name": "Trolls 3: Se armó la banda (2023)",
+        "categories": [
+            "Animation",
+            "Adventure",
+            "Comedy"
+        ],
+        "cast": [
+            "Justin Timberlake",
+            "Anna Kendrick",
+            "Zooey Deschanel",
+            "Daveed Diggs"
+        ]
+    },
+    {
+        "name": "Hipnosis: Arma Invisible (2023)",
+        "categories": [
+            "Action",
+            "Mystery",
+            "Thriller"
+        ],
+        "cast": [
+            "Ben Affleck",
+            "Alice Braga",
+            "JD Pardo",
+            "Dayo Okeniyi"
+        ]
+    },
+    {
+        "name": "Aristóteles Y Dante Descubren Los Secretos Del Universo (2022)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Luna Blaise",
+            "Eva Longoria",
+            "Kevin Alejandro",
+            "Veronica Falcón"
+        ]
+    },
+    {
+        "name": "Atentado En El Aire (2023)",
+        "categories": [
+            "Thriller"
+        ],
+        "cast": [
+            "Jonathan Rhys Meyers",
+            "Alec Baldwin",
+            "MyAnna Buring",
+            "Jo Martin"
+        ]
+    },
+    {
+        "name": "Señora Influencer (2023)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Mónica Huarte",
+            "Macarena García Romero",
+            "Diana Carreiro",
+            "Bárbara Lombardo"
+        ]
+    },
+    {
+        "name": "Confessions (2023)",
+        "categories": [
+            "Thriller"
+        ],
+        "cast": [
+            "Ana Claudia Talancón",
+            "Claudia Ramírez",
+            "Juan Manuel Bernal",
+            "Luis Gnecco"
+        ]
+    },
+    {
+        "name": "The Marvels (2023)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            "Brie Larson",
+            "Samuel L. Jackson",
+            "Zawe Ashton",
+            "Iman Vellani"
+        ]
+    },
+    {
+        "name": "Nefarious: La Palabra Del Diablo (2023)",
+        "categories": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            "Sean Patrick Flanery",
+            "Jordan Belfi",
+            "Tom Ohmer",
+            "Glenn Beck"
+        ]
+    },
+    {
+        "name": "Juega o Muere (2023)",
+        "categories": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            "Asa Butterfield",
+            "Annabeth Gish",
+            "Natalia Dyer",
+            "Laurel Marsden"
+        ]
+    },
+    {
+        "name": "Los Juegos Del Hambre: Balada De Pájaros Cantores Y Serpientes (2023)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [
+            "Rachel Zegler",
+            "Hunter Schafer",
+            "Peter Dinklage",
+            "Tom Blyth"
+        ]
+    },
+    {
+        "name": "Napoleón (2023)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Biography"
+        ],
+        "cast": [
+            "Vanessa Kirby",
+            "Joaquin Phoenix",
+            "Ludivine Sagnier",
+            "Rupert Everett"
+        ]
+    },
+    {
+        "name": "Amelia's Children (2023)",
+        "categories": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            "Brigette Lundy-Paine",
+            "Carloto Cotta",
+            "Anabela Moreira",
+            "Alba Baptista"
+        ]
+    },
+    {
+        "name": "Viernes Negro (2023)",
+        "categories": [
+            "Horror",
+            "Mystery",
+            "Thriller"
+        ],
+        "cast": [
+            "Rick Hoffman",
+            "Addison Rae",
+            "Gina Gershon",
+            "Patrick Dempsey"
+        ]
+    },
+    {
+        "name": "La maldición del Queen Mary (2023)",
+        "categories": [
+            "Drama",
+            "Horror",
+            "Mystery"
+        ],
+        "cast": [
+            "Wesley Alfvin",
+            "Elena Angelova",
+            "Tiffany Ashton",
+            "Luca Barbarossa"
+        ]
+    },
+    {
+        "name": "RENAISSANCE: A FILm by BEYONCÉ (2023)",
+        "categories": [
+            "Music"
+        ],
+        "cast": [
+            "Beyoncé",
+            "Blue Ivy Carter"
+        ]
+    },
+    {
+        "name": "The Georgetown Project (2023)",
+        "categories": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            "Russell Crowe",
+            "Samantha Mathis",
+            "David Hyde Pierce",
+            "Sam Worthington"
+        ]
+    },
+    {
+        "name": "Papá o Mamá (2023)",
+        "categories": [
+            "Comedy"
+        ],
+        "cast": [
+            "Mauricio Ochmann",
+            "Silvia Navarro",
+            "Aranda Sokol",
+            "Axel Madrazo"
+        ]
+    },
+    {
+        "name": "Fuck Them All! (2023)",
+        "categories": [
+            "Biography"
+        ],
+        "cast": [
+            "Old-Nick",
+            "Janet Priest",
+            "Ruth Essel",
+            "Sophie Fournier"
+        ]
+    },
+    {
+        "name": "No Lo Abras (2023)",
+        "categories": [
+            "Drama",
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            "Megan Suri",
+            "Neeru Bajwa",
+            "Mohana Krishnan",
+            "Betty Gabriel"
+        ]
+    },
+    {
+        "name": "La Chica Del Pantano (2023)",
+        "categories": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "cast": [
+            "Caren Pistorius",
+            "Daisy Ridley",
+            "Ben Mendelsohn",
+            "Garrett Hedlund"
+        ]
+    },
+    {
+        "name": "Fallen Leaves (2023)",
+        "categories": [
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [
+            "Alma Pöysti",
+            "Jussi Vatanen",
+            "Alina Tomnikov",
+            "Janne Hyytiäinen"
+        ]
+    },
+    {
+        "name": "Pobres Criaturas (2023)",
+        "categories": [
+            "Romance",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Emma Stone",
+            "Mark Ruffalo",
+            "Willem Dafoe",
+            "Ramy Youssef"
+        ]
+    },
+    {
+        "name": "Les trois mousquetaires: Milady (2023)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "History"
+        ],
+        "cast": [
+            "Eva Green",
+            "Vicky Krieps",
+            "Lyna Khoudri",
+            "Vincent Cassel"
+        ]
+    },
+    {
+        "name": "BlackBerry (2023)",
+        "categories": [
+            "Biography",
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [
+            "Jay Baruchel",
+            "Glenn Howerton",
+            "Matt Johnson",
+            "Kelly Van der Burg"
+        ]
+    },
+    {
+        "name": "¡Patos! (2023)",
+        "categories": [
+            "Animation",
+            "Action",
+            "Adventure"
+        ],
+        "cast": [
+            "Elizabeth Banks",
+            "Awkwafina",
+            "Danny DeVito",
+            "Carol Kane"
+        ]
+    },
+    {
+        "name": "Sleeping Dogs (2023)",
+        "categories": [
+            "Thriller"
+        ],
+        "cast": [
+            "Karen Gillan",
+            "Russell Crowe",
+            "Marton Csokas",
+            "Tommy Flanagan"
+        ]
+    },
+    {
+        "name": "Aquaman and the Lost Kingdom (2023)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Fantasy"
+        ],
+        "cast": [
+            "Jason Momoa",
+            "Ben Affleck",
+            "Patrick Wilson",
+            "Yahya Abdul-Mateen II"
+        ]
+    },
+    {
+        "name": "Lord of Misrule (2023)",
+        "categories": [
+            "Horror"
+        ],
+        "cast": [
+            "Ralph Ineson",
+            "Tuppence Middleton",
+            "Matt Stokoe",
+            "Alexa Goodall"
+        ]
+    },
+    {
+        "name": "El libro de las soluciones (2023)",
+        "categories": [
+            "Comedy",
+            "Drama"
+        ],
+        "cast": [
+            "Pierre Niney",
+            "Blanche Gardin",
+            "Françoise Lebrun",
+            "Frankie Wallach"
+        ]
+    },
+    {
+        "name": "El Niño Dios (2023)",
+        "categories": [
+            "Family"
+        ],
+        "cast": [
+            "Ana Lucía Domínguez",
+            "Eduardo Yáñez",
+            "Fernando Allende",
+            "Eugenio Siller"
+        ]
+    },
+    {
+        "name": "Dragonkeeper (2023)",
+        "categories": [
+            "Animation"
+        ],
+        "cast": [
+            "Bill Nighy",
+            "Brendan Coyle",
+            "Anthony Howell",
+            "Bill Bailey"
+        ]
+    },
+    {
+        "name": "Aguas Siniestras (2024)",
+        "categories": [
+            "Horror",
+            "Thriller"
+        ],
+        "cast": [
+            "Kerry Condon",
+            "Wyatt Russell",
+            "Amélie Hoeferle",
+            "Nancy Lenehan"
+        ]
+    },
+    {
+        "name": "PerroHombre (2023)",
+        "categories": [
+            "Drama",
+            "Thriller"
+        ],
+        "cast": [
+            "Caleb Landry Jones",
+            "Jojo T. Gibbs",
+            "Christopher Denham",
+            "Clemens Schick"
+        ]
+    },
+    {
+        "name": "Her Seye Ragmen (2023)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Robert Maaser",
+            "Aslihan Malbora",
+            "Ekin Mert Daymaz",
+            "Nihan Büyükagaç"
+        ]
+    },
+    {
+        "name": "The Zone of Interest (2023)",
+        "categories": [
+            "Drama",
+            "History",
+            "War"
+        ],
+        "cast": [
+            "Sandra Hüller",
+            "Christian Friedel",
+            "Freya Kreutzkam",
+            "Ralph Herforth"
+        ]
+    },
+    {
+        "name": "Land of Bad (2024)",
+        "categories": [
+            "Action",
+            "Thriller"
+        ],
+        "cast": [
+            "Russell Crowe",
+            "Milo Ventimiglia",
+            "Liam Hemsworth",
+            "Daniel MacPherson"
+        ]
+    },
+    {
+        "name": "Translations (2023)",
+        "categories": [
+            "Drama",
+            "Romance"
+        ],
+        "cast": [
+            "Kate Morgan-Jones",
+            "Cari Barley",
+            "Tallulah Edwards",
+            "Alan Emrys"
+        ]
+    },
+    {
+        "name": "Secretos de un escándalo (2023)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Natalie Portman",
+            "Julianne Moore",
+            "Charles Melton",
+            "Piper Curda"
+        ]
+    },
+    {
+        "name": "Baghead (2024)",
+        "categories": [
+            "Horror"
+        ],
+        "cast": [
+            "Freya Allan",
+            "Peter Mullan",
+            "Saffron Burrows",
+            "Ned Dennehy"
+        ]
+    },
+    {
+        "name": "La isla de las Muñecas (2021)",
+        "categories": [
+            "Horror"
+        ],
+        "cast": [
+            "Javier Ponce",
+            "Alejandro Tommasi",
+            "Isaura Espinoza",
+            "Gerardo Murguía"
+        ]
+    },
+    {
+        "name": "Ferrari (2023)",
+        "categories": [
+            "Biography",
+            "Drama",
+            "History"
+        ],
+        "cast": [
+            "Shailene Woodley",
+            "Adam Driver",
+            "Penélope Cruz",
+            "Sarah Gadon"
+        ]
+    },
+    {
+        "name": "No Way Up (2024)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [
+            "Colm Meaney",
+            "Phyllis Logan",
+            "Will Attenborough",
+            "James Carroll Jordan"
+        ]
+    },
+    {
+        "name": "Duna (parte dos) (2024)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Drama"
+        ],
+        "cast": [
+            "Rebecca Ferguson",
+            "Florence Pugh",
+            "Timothée Chalamet",
+            "Zendaya"
+        ]
+    },
+    {
+        "name": "Snow White (2024)",
+        "categories": [
+            "Adventure",
+            "Drama",
+            "Family"
+        ],
+        "cast": [
+            "Rachel Zegler",
+            "Gal Gadot",
+            "Andrew Burnap",
+            "Ansu Kabia"
+        ]
+    },
+    {
+        "name": "The Crow (2024)",
+        "categories": [
+            "Action",
+            "Crime",
+            "Fantasy"
+        ],
+        "cast": [
+            "Bill Skarsgård",
+            "Laura Birn",
+            "Danny Huston",
+            "Jordan Bolger"
+        ]
+    },
+    {
+        "name": "La Contadora de Películas (2023)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Daniel Brühl",
+            "Bérénice Bejo",
+            "Antonio de la Torre",
+            "Max Salgado"
+        ]
+    },
+    {
+        "name": "Immaculate (2024)",
+        "categories": [
+            "Horror"
+        ],
+        "cast": [
+            "Sydney Sweeney",
+            "Álvaro Morte",
+            "Simona Tabasco",
+            "Benedetta Porcaroli"
+        ]
+    },
+    {
+        "name": "The Great Escaper (2023)",
+        "categories": [
+            "Drama"
+        ],
+        "cast": [
+            "Michael Caine",
+            "Glenda Jackson",
+            "Wolf Kahler",
+            "John Standing"
+        ]
+    },
+    {
+        "name": "Breathe (2024)",
+        "categories": [
+            "Action",
+            "Thriller"
+        ],
+        "cast": [
+            "Milla Jovovich",
+            "Common",
+            "Sam Worthington",
+            "Raúl Castillo"
+        ]
+    },
+    {
+        "name": "Kingdom of the Planet of the Apes (2024)",
+        "categories": [
+            "Action",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Freya Allan",
+            "Dichen Lachman",
+            "Kevin Durand",
+            "William H. Macy"
+        ]
+    },
+    {
+        "name": "Woman of the Hour (2023)",
+        "categories": [
+            "Crime",
+            "Drama",
+            "Mystery"
+        ],
+        "cast": [
+            "Anna Kendrick",
+            "Tony Hale",
+            "Kelley Jakle",
+            "Daniel Zovatto"
+        ]
+    },
+    {
+        "name": "Hellboy: The Crooked Man (2024)",
+        "categories": [
+            "Action",
+            "Fantasy",
+            "Horror"
+        ],
+        "cast": [
+            "Jefferson White",
+            "Jack Kesy",
+            "Adeline Rudolph",
+            "Leah McNamara"
+        ]
+    },
+    {
+        "name": "June and John (2024)",
+        "categories": [
+            "Romance",
+            "Thriller"
+        ],
+        "cast": [
+            "Don Scribner",
+            "Honey Lauren",
+            "Myles Cranford",
+            "Briana Bui"
+        ]
+    },
+    {
+        "name": "Cold Storage (2024)",
+        "categories": [
+            "Thriller"
+        ],
+        "cast": [
+            "Liam Neeson",
+            "Sosie Bacon",
+            "Lesley Manville",
+            "Vanessa Redgrave"
+        ]
+    },
+    {
+        "name": "Xenobot (2024)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Wills Canga",
+            "Cristian Gómez",
+            "Alejandro Gomez",
+            "Jaime Marquez"
+        ]
+    },
+    {
+        "name": "Kraven El Cazador (2024)",
+        "categories": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "cast": [
+            "Aaron Taylor-Johnson",
+            "Ariana DeBose",
+            "Russell Crowe",
+            "Christopher Abbott"
+        ]
+    }
+]
